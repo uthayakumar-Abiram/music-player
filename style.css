@@ -5,6 +5,7 @@ body {
   align-items: center;
   background: linear-gradient(0deg, rgba(119,173,157,1) 27%, rgba(218,249,234,1) 75%);
 }
+ 
 #card {
   display: flex;
   justify-content: center;
